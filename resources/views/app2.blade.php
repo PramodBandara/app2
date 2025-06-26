@@ -31,6 +31,13 @@
         flex-shrink: 0;
         padding-right: 2rem;
       }
+      body {
+  background-image: url('{{ url('media/mainimg2.jpg') }}');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
       
     </style>
     
@@ -65,16 +72,14 @@
     <a href="/center" class="text-gray-700 hover:text-blue-600 hover:scale-125 font-semibold uppercase tracking-wide">Center</a>
   </div>
 </header>
+
+
+
 <div class="container mx-auto px-4 py-8">
   <h1 class="text-4xl font-bold text-center mb-6">Welcome to Flashbats</h1>
   <p class="text-lg text-gray-700 text-center mb-8">Get yourself crease-ready with a brand new cricket bat. A budget-friendly cricket bat selection no matter what size you are after. From kids to adults, we’ve got you covered.</p>
   
 
-<div class="mt-12 pt-3 flex justify-center">
-    <img src="{{url('media/mainimg.png')}}" alt="Main Image" class="w-full h-auto object-cover mt-4">
-</div>
 
-
-
-</body> 
+</body>
 </html> 
