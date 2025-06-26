@@ -16,7 +16,7 @@
   <source src="{{ url('media/finalcricket.mp4') }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-<section class="bg-white  py-20 px-6 ">
+<section class="bg-white/50  py-20 px-6 ">
   <div class="max-w-7xl mx-auto grid md:grid-cols-2 gap-10 items-center ">
     <!-- Image -->
     <div>
@@ -32,7 +32,7 @@
       <p class="text-gray-600 text-base mb-6">
         All our bats are hand-pressed and tested by real cricketers. Backed by passion, driven by performance.
       </p>
-      <a href="/contact" class="inline-block bg-blue-600 text-white font-semibold px-6 py-3 rounded hover:bg-blue-700 transition">
+      <a href="/contact" class="inline-block bg-black text-white font-semibold px-6 py-3 rounded hover:bg-blue-700 transition">
         Get in Touch
       </a>
     </div>
