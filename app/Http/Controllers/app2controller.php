@@ -28,5 +28,18 @@ class app2controller extends Controller
     public function center()
     {
         return view('center');
-    }   
+    }  
+    public function order()
+    {
+        return view('order');
+    } 
+    public function placeorder()
+    {
+        return view('placeorder');
+    }
+    
+    
+
+    
+   
 }

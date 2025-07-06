@@ -12,6 +12,22 @@
   
 </head>
 <body>
+<header class="bg-white/35 shadow-black-xs backdrop-blur-md shadow-md sticky top-0 z-50 py-4 px-6 flex items-center justify-between">
+    <div class="flex gap-6 items-center">
+      <a href="{{ url('about') }}" class="text-white-700 hover:text-blue-600 hover:scale-125 font-semibold uppercase tracking-wide">About</a>
+      <a href="{{url('contact')}}" class="text-white-700 hover:text-blue-600 hover:scale-125 font-semibold uppercase tracking-wide">Contact</a>
+    </div>
+    <div class="flex justify-center">
+      <a href="/" class="block">
+        <img src="{{url('media/logo1.jpeg')}}"  alt="app2 Logo" class="h-[2.6cm] w-auto max-h-[2.8cm] object-contain animate-glow">
+      </a>
+    </div>
+    <div class="flex gap-6 items-center">
+      <a href="{{url('work')}}" class="text-white-700 hover:text-blue-600 hover:scale-125 font-semibold uppercase tracking-wide">Work</a>
+      <a href="{{url('center')}}" class="text-white-700 hover:text-blue-600 hover:scale-125 font-semibold uppercase tracking-wide">Center</a>
+    </div>
+  </header>
+
 <video autoplay muted loop playsinline class="fixed top-0 left-0 w-full h-full object-cover z-[-1]">
   <source src="{{ url('media/finalcricket.mp4') }}" type="video/mp4">
   Your browser does not support the video tag.

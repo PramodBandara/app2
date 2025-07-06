@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1366 768">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-size: 227.1px;
+      }
+
+      .st0, .st1 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st0, .st1, .st2 {
+        isolation: isolate;
+      }
+
+      .st0, .st1, .st3 {
+        fill: #fff;
+      }
+
+      .st1 {
+        font-size: 236.7px;
+      }
+    </style>
+  </defs>
+  <g class="st2">
+    <g class="st2">
+      <g class="st2">
+        <text class="st1" transform="translate(194 447.8)"><tspan x="0" y="0">F</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st2">
+    <g class="st2">
+      <g class="st2">
+        <text class="st0" transform="translate(374.9 449.1)"><tspan x="0" y="0">ASH BAT</tspan></text>
+      </g>
+    </g>
+  </g>
+  <polygon class="st3" points="340.1 239 353.1 239 353.1 310.5 361.5 316 361.5 451.3 333.1 451.3 333.1 316.3 342.3 311.7 340.1 239"/>
+</svg>
