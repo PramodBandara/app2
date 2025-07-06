@@ -10,4 +10,23 @@ class app2controller extends Controller
     {
         return view('app2');
     }
+
+    public function about()
+    {
+        return view('about');
+
+    }
+    public function contact()
+    {
+        return view('contact');
+    }
+
+    public function work()
+    {
+        return view('work');
+    }
+    public function center()
+    {
+        return view('center');
+    }   
 }
